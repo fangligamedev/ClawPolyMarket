@@ -1,0 +1,56 @@
+########################################################
+###       Pure Market Making Strategy                ###
+########################################################
+
+template_version: 24
+strategy: pure_market_making
+
+# 交易所和交易对
+exchange: polymarket
+market: TRUMP-2024
+
+# 订单金额
+order_amount: 10.0
+
+# 买卖价差 (1% = 0.01)
+bid_spread: 0.01
+ask_spread: 0.01
+
+# 最小价差
+minimum_spread: 0.005
+
+# 订单刷新时间 (秒)
+order_refresh_time: 30.0
+
+# 订单刷新容忍度
+order_refresh_tolerance_pct: 0.0
+
+# 挂单数量
+order_levels: 1
+
+# 订单量倍增
+order_level_amount: 0
+
+# 订单间距
+order_level_spread: 0.01
+
+# 填充后暂停
+filled_order_delay: 60.0
+
+# 挂单取消时间
+hang_orders_enabled: false
+hang_orders_cancel_pct: 0.1
+
+# 交易前检查
+order_optimization_enabled: false
+ask_order_optimization_depth: 0
+bid_order_optimization_depth: 0
+
+# 添加交易费用
+deal_to_open_source_exchange: false
+deal_to_open_target_exchange: false
+
+# 风控
+risk_management: true
+max_order_size: 100.0
+min_order_size: 1.0

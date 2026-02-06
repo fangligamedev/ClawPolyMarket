@@ -1,0 +1,15 @@
+########################################################
+###       Polymarket Connector Configuration         ###
+########################################################
+
+# API 凭证 (需要从环境变量或安全存储获取)
+polymarket_api_key: null
+polymarket_api_secret: null
+polymarket_api_passphrase: null
+
+# 测试网配置 (可选)
+use_testnet: false
+
+# 其他配置
+rate_limit: 10.0
+timeout: 30
