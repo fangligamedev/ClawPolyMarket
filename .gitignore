@@ -1,0 +1,76 @@
+# ClawPolyMarket .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+*.log
+*.log.*
+
+# Environment variables
+.env
+.env.local
+
+# API Keys and Secrets (IMPORTANT!)
+*.key
+*.secret
+credentials.json
+config.json
+
+# Positions and sensitive data
+positions.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+tmp/
+temp/
+
+# Reports (keep only templates, exclude generated)
+# Uncomment if you want to ignore generated reports
+# IEA_REPORT_*.md
+# MULTI_STRATEGY_*.md
+# DAILY_REPORT_*.md
+# arbitrage_report_*.md
+# market_monitor_report_*.md
+
+# Data files (large)
+*.csv
+data/
+datasets/
+
+# Backup files
+*.backup
+*.bak
