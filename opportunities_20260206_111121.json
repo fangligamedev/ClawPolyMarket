@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-02-06T11:11:21.996641",
+  "markets_scanned": 1000,
+  "total_opportunities": 0,
+  "by_strategy": {
+    "IEA": 0,
+    "Value": 0,
+    "Liquid": 0
+  },
+  "top_opportunities": []
+}

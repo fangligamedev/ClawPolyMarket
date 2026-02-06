@@ -1,0 +1,2472 @@
+{
+  "timestamp": "2026-02-06T12:00:04.329796",
+  "trending_markets": [
+    {
+      "id": "964346",
+      "question": "Solana Up or Down - December 19, 11:40AM-11:45AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2025-12-19T16:45:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329829"
+    },
+    {
+      "id": "964337",
+      "question": "Ethereum Up or Down - December 19, 11:35AM-11:40AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2025-12-19T16:40:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329852"
+    },
+    {
+      "id": "964338",
+      "question": "Solana Up or Down - December 19, 11:35AM-11:40AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2025-12-19T16:40:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329861"
+    },
+    {
+      "id": "964345",
+      "question": "Bitcoin Up or Down - December 19, 11:40AM-11:45AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2025-12-19T16:45:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329868"
+    },
+    {
+      "id": "964336",
+      "question": "XRP Up or Down - December 19, 11:35AM-11:40AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2025-12-19T16:40:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329875"
+    },
+    {
+      "id": "964334",
+      "question": "XRP Up or Down - December 19, 11:30AM-11:35AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2025-12-19T16:35:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329882"
+    },
+    {
+      "id": "964335",
+      "question": "Bitcoin Up or Down - December 19, 11:35AM-11:40AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2025-12-19T16:40:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329889"
+    },
+    {
+      "id": "1219715",
+      "question": "XRP Up or Down - January 20, 7:45AM-7:50AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2026-01-20T12:50:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329902"
+    },
+    {
+      "id": "964344",
+      "question": "Ethereum Up or Down - December 19, 11:40AM-11:45AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2025-12-19T16:45:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329908"
+    },
+    {
+      "id": "964343",
+      "question": "XRP Up or Down - December 19, 11:40AM-11:45AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2025-12-19T16:45:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329918"
+    },
+    {
+      "id": "1219661",
+      "question": "XRP Up or Down - January 20, 7:20AM-7:25AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2026-01-20T12:25:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329924"
+    },
+    {
+      "id": "1219659",
+      "question": "Solana Up or Down - January 20, 7:20AM-7:25AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2026-01-20T12:25:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329930"
+    },
+    {
+      "id": "1219713",
+      "question": "Bitcoin Up or Down - January 20, 7:45AM-7:50AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2026-01-20T12:50:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329939"
+    },
+    {
+      "id": "1219710",
+      "question": "Ethereum Up or Down - January 20, 7:45AM-7:50AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2026-01-20T12:50:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329945"
+    },
+    {
+      "id": "1219662",
+      "question": "Bitcoin Up or Down - January 20, 7:20AM-7:25AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2026-01-20T12:25:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329954"
+    },
+    {
+      "id": "964332",
+      "question": "Ethereum Up or Down - December 19, 11:30AM-11:35AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2025-12-19T16:35:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329960"
+    },
+    {
+      "id": "1219660",
+      "question": "Ethereum Up or Down - January 20, 7:20AM-7:25AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2026-01-20T12:25:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329968"
+    },
+    {
+      "id": "1219714",
+      "question": "Solana Up or Down - January 20, 7:45AM-7:50AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2026-01-20T12:50:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329974"
+    },
+    {
+      "id": "1219691",
+      "question": "Ethereum Up or Down - January 20, 7:25AM-7:30AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2026-01-20T12:30:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329982"
+    },
+    {
+      "id": "964347",
+      "question": "Bitcoin Up or Down - December 19, 11:45AM-11:50AM ET",
+      "volume": 0.0,
+      "liquidity": 0.0,
+      "outcomes": [
+        {
+          "name": "[",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "U",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "p",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": ",",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": " ",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "D",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "o",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "w",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "n",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "\"",
+          "price": 0.5,
+          "probability": 50
+        },
+        {
+          "name": "]",
+          "price": 0.5,
+          "probability": 50
+        }
+      ],
+      "end_date": "2025-12-19T16:50:00Z",
+      "category": null,
+      "timestamp": "2026-02-06T12:00:04.329988"
+    }
+  ],
+  "watchlist": {
+    "Will Trump": [
+      {
+        "id": "517310",
+        "question": "Will Trump deport less than 250,000?",
+        "volume": 1056447.909846,
+        "liquidity": 12408.66534,
+        "outcomes": [
+          {
+            "name": "[",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "Y",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "e",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "s",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": ",",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": " ",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "N",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "o",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "]",
+            "price": 0.5,
+            "probability": 50
+          }
+        ],
+        "end_date": "2025-12-31T12:00:00Z",
+        "category": null,
+        "timestamp": "2026-02-06T12:00:04.330002"
+      },
+      {
+        "id": "517311",
+        "question": "Will Trump deport 250,000-500,000 people?",
+        "volume": 1535130.662134,
+        "liquidity": 4450.14374,
+        "outcomes": [
+          {
+            "name": "[",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "Y",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "e",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "s",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": ",",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": " ",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "N",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "o",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "]",
+            "price": 0.5,
+            "probability": 50
+          }
+        ],
+        "end_date": "2025-12-31T12:00:00Z",
+        "category": null,
+        "timestamp": "2026-02-06T12:00:04.330009"
+      },
+      {
+        "id": "517313",
+        "question": "Will Trump deport 500,000-750,000- people?",
+        "volume": 478574.132401,
+        "liquidity": 2901.3134,
+        "outcomes": [
+          {
+            "name": "[",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "Y",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "e",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "s",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": ",",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": " ",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "N",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "o",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "]",
+            "price": 0.5,
+            "probability": 50
+          }
+        ],
+        "end_date": "2025-12-31T12:00:00Z",
+        "category": null,
+        "timestamp": "2026-02-06T12:00:04.330053"
+      },
+      {
+        "id": "517314",
+        "question": "Will Trump deport 750,000-1,000,000 people?",
+        "volume": 472168.018134,
+        "liquidity": 4024.74088,
+        "outcomes": [
+          {
+            "name": "[",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "Y",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "e",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "s",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": ",",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": " ",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "N",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "o",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "]",
+            "price": 0.5,
+            "probability": 50
+          }
+        ],
+        "end_date": "2025-12-31T12:00:00Z",
+        "category": null,
+        "timestamp": "2026-02-06T12:00:04.330062"
+      },
+      {
+        "id": "517315",
+        "question": "Will Trump deport 1,000,000-1,250,000 people?",
+        "volume": 456645.415943,
+        "liquidity": 10319.21377,
+        "outcomes": [
+          {
+            "name": "[",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "Y",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "e",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "s",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": ",",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": " ",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "N",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "o",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "]",
+            "price": 0.5,
+            "probability": 50
+          }
+        ],
+        "end_date": "2025-12-31T12:00:00Z",
+        "category": null,
+        "timestamp": "2026-02-06T12:00:04.330068"
+      }
+    ],
+    "Bitcoin": [
+      {
+        "id": "540844",
+        "question": "Will bitcoin hit $1m before GTA VI?",
+        "volume": 3037884.860571,
+        "liquidity": 183838.5202,
+        "outcomes": [
+          {
+            "name": "[",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "Y",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "e",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "s",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": ",",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": " ",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "N",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "o",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "]",
+            "price": 0.5,
+            "probability": 50
+          }
+        ],
+        "end_date": "2026-07-31T12:00:00Z",
+        "category": null,
+        "timestamp": "2026-02-06T12:00:04.330080"
+      }
+    ],
+    "Ethereum": [],
+    "NBA": [],
+    "NFL": [
+      {
+        "id": "541516",
+        "question": "Will Aidan Hutchinson be the 2025-2026 NFL Comeback Player of the Year?",
+        "volume": 559169.324352,
+        "liquidity": 53363.34518,
+        "outcomes": [
+          {
+            "name": "[",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "Y",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "e",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "s",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": ",",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": " ",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "N",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "o",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "]",
+            "price": 0.5,
+            "probability": 50
+          }
+        ],
+        "end_date": "2026-02-07T12:00:00Z",
+        "category": null,
+        "timestamp": "2026-02-06T12:00:04.330118"
+      },
+      {
+        "id": "541517",
+        "question": "Will Christian McCaffrey be the 2025-2026 NFL Comeback Player of the Year?",
+        "volume": 67516.962123,
+        "liquidity": 35487.30788,
+        "outcomes": [
+          {
+            "name": "[",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "Y",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "e",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "s",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": ",",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": " ",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "N",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "o",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "]",
+            "price": 0.5,
+            "probability": 50
+          }
+        ],
+        "end_date": "2026-02-07T12:00:00Z",
+        "category": null,
+        "timestamp": "2026-02-06T12:00:04.330132"
+      },
+      {
+        "id": "541518",
+        "question": "Will Dak Prescott be the 2025-2026 NFL Comeback Player of the Year?",
+        "volume": 139348.014438,
+        "liquidity": 15326.09291,
+        "outcomes": [
+          {
+            "name": "[",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "Y",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "e",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "s",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": ",",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": " ",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "N",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "o",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "]",
+            "price": 0.5,
+            "probability": 50
+          }
+        ],
+        "end_date": "2026-02-07T12:00:00Z",
+        "category": null,
+        "timestamp": "2026-02-06T12:00:04.330140"
+      },
+      {
+        "id": "541519",
+        "question": "Will Trevor Lawrence be the 2025-2026 NFL Comeback Player of the Year?",
+        "volume": 53764.515927,
+        "liquidity": 14610.33019,
+        "outcomes": [
+          {
+            "name": "[",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "Y",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "e",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "s",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": ",",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": " ",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "N",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "o",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "]",
+            "price": 0.5,
+            "probability": 50
+          }
+        ],
+        "end_date": "2026-02-07T12:00:00Z",
+        "category": null,
+        "timestamp": "2026-02-06T12:00:04.330150"
+      },
+      {
+        "id": "541520",
+        "question": "Will J.J. McCarthy be the 2025-2026 NFL Comeback Player of the Year?",
+        "volume": 37030.731235,
+        "liquidity": 11257.98519,
+        "outcomes": [
+          {
+            "name": "[",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "Y",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "e",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "s",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": ",",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": " ",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "N",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "o",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "\"",
+            "price": 0.5,
+            "probability": 50
+          },
+          {
+            "name": "]",
+            "price": 0.5,
+            "probability": 50
+          }
+        ],
+        "end_date": "2026-02-07T12:00:00Z",
+        "category": null,
+        "timestamp": "2026-02-06T12:00:04.330193"
+      }
+    ],
+    "Election": []
+  }
+}

@@ -1,0 +1,40 @@
+ClawPolyMarket 项目文件清单
+============================
+
+压缩包: ClawPolyMarket_20260206.tar.gz (60KB)
+
+包含文件:
+README.md
+.gitignore
+iea_strategy.py
+multi_strategy_discovery.py
+polymarket_strategy_engine_v2.py
+arbitrage_scanner.py
+market_monitor.py
+twitter_signal_monitor.py
+analyze_swisstony.py
+kimi_strategy_writer.py
+generate_daily_report.py
+test_polymarket_api.py
+test_polymarket_full_api.py
+polymarket_scanner.py
+polymarket_scanner_web.py
+IEA_STRATEGY_DOCUMENTATION.md
+Polymarket_Strategy_Research_Report.md
+USDC_DEPOSIT_GUIDE.md
+copy_trading_analysis.md
+0xCristal_Strategy_Analysis.md
+trader_strategies_library.md
+STRATEGY_STATUS_CARD.md
+AI_Money_Strategy_Report.md
+automation/
+automation/run_all_scans.sh
+strategies/
+strategies/STRATEGY_REPORT_20260206_060001.md
+strategies/auto_strategy_20260206_120002.py
+strategies/STRATEGY_REPORT_20260206_031627.md
+strategies/auto_strategy_20260206_031627.py
+strategies/auto_strategy_20260206_060001.py
+strategies/STRATEGY_REPORT_20260206_120002.md
+
+总计: 32 个文件
