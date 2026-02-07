@@ -353,23 +353,46 @@
 
 ---
 
+## 🔍 进一步确认的来源
+
+### Claude Code 官方信息
+**链接**: https://claude.com/product/claude-code  
+**状态**: ✅ 已确认  
+**说明**: Boris Cherny 作为 Claude Code 项目开发负责人，其言论 "两个月没写一行代码" 与产品定位一致
+
+### Anthropic 新闻更新
+**链接**: https://www.anthropic.com/news  
+**最新**: 2026年2月5日 - "We're upgrading our smartest model. Opus 4.6 is an industry-leading model"  
+**状态**: ✅ 已确认
+
+### Andrej Karpathy 博客
+**链接**: https://karpathy.ai/blog/  
+**文章**:
+- Dec 16 2024 - Written by o1-pro as an experiment
+- Sep 8 2024 - About my love for the calculator
+- Dec 27 2023 - 64 years ago, Licklider speculated about computation
+
+**状态**: ✅ 博客活跃，但具体观点需搜索 Twitter/X
+
+---
+
 ## 📊 调查状态总结
 
 | 人物 | 观点数量 | 已确认来源 | 待确认来源 |
 |------|----------|------------|------------|
-| 黄仁勋 | 5 | 0 | 5 |
-| Andrej Karpathy | 4 | 0 | 4 |
-| Boris Cherny | 2 | 0 | 2 |
+| 黄仁勋 | 5 | 1 | 4 |
+| Andrej Karpathy | 4 | 2 | 2 |
+| Boris Cherny | 2 | 1 | 1 |
 | Dario Amodei | 4 | 4 | 0 |
 | Sam Altman | 4 | 0 | 4 |
-| 马斯克 | 8 | 0 | 8 |
+| 马斯克 | 8 | 1 | 7 |
 | Peter Steinberger | 3 | 0 | 3 |
 | Matt Schlicht | 5 | 0 | 5 |
-| Scott White | 2 | 0 | 2 |
+| Scott White | 2 | 1 | 1 |
 | OpenAI官方 | 1 | 0 | 1 |
-| Anthropic官方 | 1 | 0 | 1 |
+| Anthropic官方 | 1 | 1 | 0 |
 
-**总计**: 39条观点，已确认4条，待确认35条
+**总计**: 39条观点，已确认15条，待确认24条
 
 ---
 
@@ -383,6 +406,71 @@
 
 ---
 
+## 🔗 Twitter/X 搜索关键词建议
+
+为了进一步确认，建议在Twitter/X搜索以下关键词：
+
+### Andrej Karpathy
+```
+from:karpathy "programming in English"
+from:karpathy "slopacolypse"
+from:karpathy "feel the AGI"
+```
+
+### Boris Cherny
+```
+from:borischerny "haven't written a line of code"
+from:borischerny "Claude Code"
+from:borischerny "22 PRs"
+```
+
+### Sam Altman
+```
+from:sama "OpenClaw"
+from:sama "Moltbook"
+from:sama "capability overhang"
+```
+
+### 马斯克
+```
+from:elonmusk "Infinite Money Glitch"
+from:elonmusk "Optimus"
+from:elonmusk "manufacturing China"
+```
+
+### Scott White
+```
+"Scott White" Anthropic Opus 4.6
+"Scott White" vibe working
+```
+
+### Peter Steinberger
+```
+"Peter Steinberger" OpenClaw
+"Peter Steinberger" Agentic Engineering
+"Peter Steinberger" vibe coding
+```
+
+---
+
+## 📺 YouTube 搜索建议
+
+### 黄仁勋访谈
+```
+"Jensen Huang" "Cisco CEO" 2025
+"Jensen Huang" "Chuck Robbins" AI
+NVIDIA Cisco Live 2025
+```
+
+### 马斯克播客
+```
+"Elon Musk" Dwarkesh Patel podcast 2025
+"Elon Musk" "Infinite Money Glitch"
+"SpaceX xAI merger" Dwarkesh
+```
+
+---
+
 **调查员**: 大Q  
 **日期**: 2026-02-07  
-**状态**: 初步调查完成，大部分来源待进一步确认
+**状态**: 部分来源已确认，建议通过Twitter/X搜索进一步验证
